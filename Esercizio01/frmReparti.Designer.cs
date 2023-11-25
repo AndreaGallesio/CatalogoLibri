@@ -61,7 +61,7 @@
             this.toolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(191, 43);
+            this.menuStrip1.Size = new System.Drawing.Size(189, 43);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -89,7 +89,7 @@
             this.grbElenco.Controls.Add(this.chkAnnullati);
             this.grbElenco.Controls.Add(this.btnAggiungi);
             this.grbElenco.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grbElenco.ForeColor = System.Drawing.Color.White;
+            this.grbElenco.ForeColor = System.Drawing.Color.SandyBrown;
             this.grbElenco.Location = new System.Drawing.Point(13, 47);
             this.grbElenco.Margin = new System.Windows.Forms.Padding(4);
             this.grbElenco.Name = "grbElenco";
@@ -101,7 +101,6 @@
             // 
             // dgvReparti
             // 
-            this.dgvReparti.BackgroundColor = System.Drawing.Color.SandyBrown;
             this.dgvReparti.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvReparti.Location = new System.Drawing.Point(21, 74);
             this.dgvReparti.Margin = new System.Windows.Forms.Padding(4);

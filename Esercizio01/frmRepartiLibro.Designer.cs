@@ -104,7 +104,7 @@
             this.grbElenco.Controls.Add(this.cmbReparti);
             this.grbElenco.Controls.Add(this.label1);
             this.grbElenco.Controls.Add(this.dgvLibri);
-            this.grbElenco.ForeColor = System.Drawing.Color.White;
+            this.grbElenco.ForeColor = System.Drawing.Color.SandyBrown;
             this.grbElenco.Location = new System.Drawing.Point(13, 47);
             this.grbElenco.Margin = new System.Windows.Forms.Padding(4);
             this.grbElenco.Name = "grbElenco";

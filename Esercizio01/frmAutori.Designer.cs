@@ -94,7 +94,7 @@
             this.grbElenco.Controls.Add(this.dgvAutori);
             this.grbElenco.Controls.Add(this.chkAnnullati);
             this.grbElenco.Controls.Add(this.btnAggiungi);
-            this.grbElenco.ForeColor = System.Drawing.Color.White;
+            this.grbElenco.ForeColor = System.Drawing.Color.SandyBrown;
             this.grbElenco.Location = new System.Drawing.Point(13, 53);
             this.grbElenco.Margin = new System.Windows.Forms.Padding(4);
             this.grbElenco.Name = "grbElenco";
